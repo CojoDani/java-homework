@@ -21,6 +21,10 @@ w2.isContainsByValue("ardelean");
 
 
 
+
+ChooseHomework ch1 = new ChooseHomework();
+ch1.chooseTheLuckiest();
+
     }
 
 }
